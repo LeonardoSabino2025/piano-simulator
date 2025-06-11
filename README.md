@@ -36,17 +36,18 @@ O projeto já está no ar e você pode experimentá-lo agora mesmo!
 
 A organização do projeto segue uma estrutura clara para facilitar o desenvolvimento e a manutenção:
 .
-├── index.html                  # A página principal do piano.
+├── index.html
 ├── src/
-│   ├── imgs/                   # Imagens e ícones do projeto.
+│   ├── imgs/
 │   │   └── piano-svgrepo-com.svg
-│   ├── scripts/                # Arquivos JavaScript para a lógica do piano.
+│   ├── scripts/
 │   │   └── engine.js
-│   ├── styles/                 # Arquivos CSS para a estilização.
+│   ├── styles/
 │   │   ├── main.css
 │   │   └── reset.css
-│   └── tunes/                  # Arquivos de áudio das notas do piano (ex: a.wav, w.wav).
-└── README.md                   # Este arquivo.
+│   └── tunes/
+│       └── (arquivos .wav das notas, ex: a.wav, w.wav, etc.)
+└── README.md               # Este arquivo.
 
 
 ---
