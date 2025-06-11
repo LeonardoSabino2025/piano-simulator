@@ -35,6 +35,7 @@ O projeto já está no ar e você pode experimentá-lo agora mesmo!
 ## 📂 Estrutura de Pastas
 
 A organização do projeto segue uma estrutura clara para facilitar o desenvolvimento e a manutenção:
+```
 .
 ├── index.html
 ├── src/
@@ -51,7 +52,7 @@ A organização do projeto segue uma estrutura clara para facilitar o desenvolvi
 
 
 ---
-
+```
 ## 👨‍💻 Como Rodar Localmente (Opcional)
 
 Se você quiser rodar este projeto em sua máquina local:
